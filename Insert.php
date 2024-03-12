@@ -13,7 +13,7 @@
         $host     = 'localhost';
         $db       = 'net24nciochina_ding';
         $user     = 'net24nciochina_brembo';
-        $password = 'YES';
+        $password = '9c3O0(lH_f@q';
         $port     = 3306;
         $charset  = 'utf8mb4';
           
