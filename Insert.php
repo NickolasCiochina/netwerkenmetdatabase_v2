@@ -13,8 +13,8 @@
         $host     = 'localhost';
         $db       = 'net24nciochina_ding';
         $user     = 'net24nciochina_brembo';
-        $password = '7Jovke=f4gwR';
-        $port     = 2083;
+        $password = '9c3O0(lH_f@q';
+        $port     = 3306;
         $charset  = 'utf8mb4';
           
         mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
