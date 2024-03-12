@@ -1,0 +1,18 @@
+[12-Mar-2024 12:18:10 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
+[12-Mar-2024 12:18:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php:22
+Stack trace:
+#0 /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php(22): mysqli->__construct()
+#1 {main}
+  thrown in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
+[12-Mar-2024 12:18:39 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
+[12-Mar-2024 12:18:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php:22
+Stack trace:
+#0 /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php(22): mysqli->__construct()
+#1 {main}
+  thrown in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
+[12-Mar-2024 12:19:10 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
+[12-Mar-2024 12:19:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for https failed: Name or service not known in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php:22
+Stack trace:
+#0 /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php(22): mysqli->__construct()
+#1 {main}
+  thrown in /home/net24nciochina/public_html/netwerkenmetdatabase_v2/Insert.php on line 22
