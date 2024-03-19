@@ -5,7 +5,7 @@
     $email = "nickolas.ciochina@student.graafschapcollege.nl"; // sender mail address - use your own!
 
     // Recipient email address
-    $to = 'recipient@example.com'; // Replace 'recipient@example.com' with the actual recipient's email address
+    $to = 'net24nciochina@net24nciochina.gc-webhosting.nl'; // Replace 'recipient@example.com' with the actual recipient's email address
 
     // Create email headers
     $headers = 'From: ' . $email . "\r\n" .
